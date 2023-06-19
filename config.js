@@ -1,6 +1,6 @@
-// Q U E E N - A N Y A - M D  #v2
+// ```H O M I X-B O T```  #v1
 
-// • # Made by @PikaBotz [ GitHub.com/PikaBotz ]
+// • # Made by @Trayoh [ GitHub.com/25401 ]
 // • # The script is Encrypted because users are not allowed to commit any changes without permission!
 // • # To buy non enc version of Anya-pika-MD-v2 please contact wa.me/918811074852 [ $5 - $8 ]
 
@@ -21,29 +21,29 @@ global.lApiKey = [ // if this API key get expired then please go to https://api.
 ]
 
 
-global.botname = "Queen Anya" 
-global.author = "𝙋𝙄𝙆𝘼"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
-global.myweb = "https://github.com/PikaBotz" // You can put any link 
-global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
+global.botname = "Homix-Bot" 
+global.author = "𝘛𝘳𝘢𝘺𝘰𝘩"  
+global.packname = "HOHOMIX-BOT"  
+global.myweb = "https://github.com/25401" // You can put any link 
+global.waterMark = "TranMix" // Your own watermark 
 global.footer = "© Queen Anya Bot"
-global.prefa = ['-'] // single prefix
-global.themeemoji = '🔥'
+global.prefa = ['/'] // single prefix
+global.themeemoji = '🇰🇪'
 global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
 global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM 💝*`
 
 
-global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
-global.ownernumber = ['918811074852'] 
+global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name // You can change it to you preferred Name  
+global.ownernumber = ['254706519089'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
-global.continent = "Asia" // your continent name 
-global.region = "India" // your country name
-global.state = "Assam" // your state name
-global.district = "Dibrugarh" // your district name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
+global.continent = "Africa" // your continent name 
+global.region = "Kenya" // your country name
+global.state = "Kiambu" // your state name
+global.district = "Thika" // your district name
+global.timezone = "Africa/Nairobi" // search on google if you don't know the timezone of your country //
 global.instagramId = "3.69_pika" // Your insta ID
-global.email = "example@exmaple.com" // put your email here
+global.email = "entrayoh@gmail.com" // put your email here
 
 
 // Greeting messages
